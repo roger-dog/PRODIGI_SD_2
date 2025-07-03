@@ -17,18 +17,14 @@ Create a game that lets users guess a randomly chosen number between 1 and 100. 
 - random module  
 
 ## 🚀 How to Run  
-### CLI Version  
-1. Run `guess_the_number_cli.py` in terminal  
-2. Follow prompt and input your guesses  
-
 ### GUI Version  
 1. Run `guess_the_number_gui.py`  
 2. Enter your guess in the GUI  
 3. Click "Guess" to receive feedback and track attempts  
 
 ## 📸 Screenshots  
-![CLI Screenshot](assets/cli_screenshot.png)  
-![GUI Screenshot](assets/gui_screenshot.png)  
+ ![Screenshot (40)](https://github.com/user-attachments/assets/56ae6cec-b28e-4a56-b748-1432094b0340)
+ 
 
 ## 🏷️ Branding & Presentation  
 Included watermark/logo for internship protocol and a polished GUI using `ttkbootstrap`.
